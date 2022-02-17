@@ -9,6 +9,19 @@
             "items": {
                 "type": "integer"
             }
+        },
+        "yggdrasil": {
+            "description": "Global yggdrasil config for zos nodes",
+            "type": "object",
+            "properties": {
+                "peers": {
+                    "description": "List of public peers that should be used by the nodes",
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            }
         }
     },
     "required": [
