@@ -3,13 +3,6 @@
     "description": "A global zos node configuration",
     "type": "object",
     "properties": {
-        "monitor": {
-            "description": "Twins that must receive status and capacity reports",
-            "type": "array",
-            "items": {
-                "type": "integer"
-            }
-        },
         "yggdrasil": {
             "description": "Global yggdrasil config for zos nodes",
             "type": "object",
