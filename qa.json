@@ -1,6 +1,8 @@
 {
     "yggdrasil": {
         "peers": [
+            "tls://163.172.31.60:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab75c900fe183b&sni=jorropo.net",
+            "tls://jorropo.net:12221?key=060f2d49c6a1a2066357ea06e58f5cff8c76a5c0cc513ceb2dab75c900fe183b&sni=jorropo.net",
             "tcp://gent01.grid.tf:9943",
             "tcp://gent02.grid.tf:9943",
             "tcp://gent03.grid.tf:9943",
