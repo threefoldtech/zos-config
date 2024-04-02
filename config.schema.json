@@ -28,6 +28,19 @@
                     }
                 }
             }
+        },
+        "users": {
+            "description": "Users config for zos nodes",
+            "type": "object",
+            "properties": {
+                "authorized": {
+                    "description": "List of authorized users that can acess zos nodes",
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            }
         }
     }
 }
