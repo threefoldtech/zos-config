@@ -45,5 +45,14 @@
             "tcp://65.21.231.58:9651",
             "tcp://65.109.18.113:9651"
         ]
+    },
+    "authorized_keys": {
+        "users": [
+            "muhamadazmy",
+            "delandtj",
+            "maxux",
+            "LeeSmet",
+            "coesensbert"
+        ]
     }
 }

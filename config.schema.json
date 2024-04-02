@@ -28,6 +28,19 @@
                     }
                 }
             }
+        },
+        "authorized_keys": {
+            "description": "Authorized keys for zos nodes",
+            "type": "object",
+            "properties": {
+                "users": {
+                    "description": "List of authorized users that can acess zos nodes",
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            }
         }
     }
 }
