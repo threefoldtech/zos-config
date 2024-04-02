@@ -46,8 +46,8 @@
             "tcp://65.109.18.113:9651"
         ]
     },
-    "authorized_keys": {
-        "users": [
+    "users": {
+        "authorized": [
             "muhamadazmy",
             "delandtj",
             "maxux",
