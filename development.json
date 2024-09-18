@@ -59,5 +59,9 @@
             "rawdaGastan",
             "Eslam-Nawara"
         ]
+    },
+    "rollout_upgrade": {
+        "test_farms": [],
+        "safe_to_upgrade": true
     }
 }

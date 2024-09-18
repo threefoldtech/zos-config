@@ -60,5 +60,9 @@
             "Eslam-Nawara",
             "atefnazmy"
         ]
+    },
+    "rollout_upgrade": {
+        "test_farms": [],
+        "safe_to_upgrade": true
     }
 }
