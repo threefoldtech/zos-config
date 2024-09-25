@@ -41,6 +41,23 @@
                     }
                 }
             }
+        },
+        "rollout_upgrade": {
+            "description": "rollout config for zos upgrades",
+            "type": "object",
+            "properties": {
+                "test_farms": {
+                    "description": "List of farms allowed to upgrade once a new version of zos is released",
+                    "type": "array",
+                    "items": {
+                        "type": "integer"
+                    }
+                },
+                "safe_to_upgrade": {
+                    "description": "A flag to determine if all nodes in the network will upgrade to the latest version",
+                    "type": "boolean"
+                }
+            }
         }
     }
 }

@@ -49,5 +49,9 @@
             "tcp://5.223.43.251:9651",
             "tcp://142.93.217.194:9651"
         ]
+    },
+    "rollout_upgrade": {
+        "test_farms": [],
+        "safe_to_upgrade": true
     }
 }
