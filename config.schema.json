@@ -52,10 +52,6 @@
                     "items": {
                         "type": "integer"
                     }
-                },
-                "safe_to_upgrade": {
-                    "description": "A flag to determine if all nodes in the network will upgrade to the latest version",
-                    "type": "boolean"
                 }
             }
         }
