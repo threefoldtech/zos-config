@@ -66,6 +66,6 @@
     },
     "rollout_upgrade": {
         "test_farms": [],
-				"safe_to_upgrade": true
+        "safe_to_upgrade": true
     }
 }

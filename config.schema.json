@@ -53,10 +53,10 @@
                         "type": "integer"
                     }
                 },
-								"safe_to_upgrade": {
-									"description": "safe to upgrade field",
-									"type": "boolean"
-							}
+                "safe_to_upgrade": {
+                    "description": "safe to upgrade field",
+                    "type": "boolean"
+                }
             }
         }
     }
