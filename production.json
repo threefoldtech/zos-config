@@ -51,6 +51,6 @@
         ]
     },
     "rollout_upgrade": {
-        "test_farms": []
+        "test_farms": [1]
     }
 }
