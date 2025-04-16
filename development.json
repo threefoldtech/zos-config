@@ -67,5 +67,6 @@
     },
     "rollout_upgrade": {
         "test_farms": []
-    }
+    },
+    "relays_urls": ["wss://relay.dev.grid.tf"]
 }
