@@ -66,5 +66,25 @@
     },
     "rollout_upgrade": {
         "test_farms": [190, 1, 43]
-    }
+    },
+    "relays_urls": [
+        "wss://relay.qa.grid.tf",
+        "wss://relay.02.qa.grid.tf"
+    ],
+    "substrate_urls": [
+        "wss://tfchain.qa.grid.tf/",
+        "wss://tfchain.02.qa.grid.tf/"
+    ],
+    "activation_urls": [
+        "https://activation.qa.grid.tf/activation/activate",
+        "https://activation.02.qa.grid.tf/activation/activate"
+    ],
+    "graphql_urls": [
+        "https://graphql.qa.grid.tf/graphql",
+        "https://graphql.02.qa.grid.tf/graphql"
+    ],
+    "flist_url": "redis://hub.grid.tf:9900",
+    "bin_repo": "tf-zos-v3-bins.qanet",
+    "kyc_url": "https://kyc.qa.grid.tf",
+    "registrar_url": "https://registrar.qa4.grid.tf"
 }
