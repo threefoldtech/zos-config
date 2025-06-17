@@ -68,21 +68,20 @@
     "rollout_upgrade": {
         "test_farms": []
     },
-    "relays_urls": ["wss://relay.dev.grid.tf"],
+    "relays_urls": [
+        "wss://relay.dev.threefold.me"
+    ],
     "substrate_urls": [
-        "wss://tfchain.dev.grid.tf/",
-        "wss://tfchain.02.dev.grid.tf"
+        "wss://tfchain.dev.threefold.me/"
     ],
     "activation_urls": [
-        "https://activation.dev.grid.tf/activation/activate",
-        "https://activation.02.dev.grid.tf/activation/activate"
+        "https://activation.dev.threefold.me/activation/activate"
     ],
     "graphql_urls": [
-        "https://graphql.dev.grid.tf/graphql",
-        "https://graphql.02.dev.grid.tf/graphql"
+        "https://graphql.dev.threefold.me/graphql"
     ],
-    "flist_url": "redis://hub.grid.tf:9900",
-    "bin_repo": "tf-zos-v3-bins.dev",
-    "kyc_url": "https://kyc.dev.grid.tf",
-    "registrar_url": "http://registrar.dev4.grid.tf"
+    "flist_url": "redis://hub.threefold.me:9900",
+    "bin_repo": "tf-zos-v3-bins",
+    "kyc_url": "https://kyc.devnet.threefold.me",
+    "registrar_url": "https://registrar.prod4.threefold.me"
 }
