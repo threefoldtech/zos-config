@@ -51,9 +51,80 @@
                     "type": "array",
                     "items": {
                         "type": "integer"
-                    }								
+                    }
                 }
             }
+        },
+        "relays_urls": {
+            "description": "List of relay URLs for the grid",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "substrate_urls": {
+            "description": "List of substrate URLs for the grid",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "activation_urls": {
+            "description": "List of activation service URLs",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "graphql_urls": {
+            "description": "List of GraphQL service URLs",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "geoip_urls": {
+            "description": "List of GeoIP service URLs",
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "flist_url": {
+            "description": "URL for the flist service",
+            "type": "string"
+        },
+        "v4_flist_url": {
+            "description": "URL for the v4 flist service",
+            "type": "string"
+        },
+        "hub_url": {
+            "description": "URL for the hub service",
+            "type": "string"
+        },
+        "v4_hub_url": {
+            "description": "URL for the v4 hub service",
+            "type": "string"
+        },
+        "hub_storage": {
+            "description": "URL for the hub storage service",
+            "type": "string"
+        },
+        "v4_hub_storage": {
+            "description": "URL for the v4 hub storage service",
+            "type": "string"
+        },
+        "bin_repo": {
+            "description": "Binary repository name",
+            "type": "string"
+        },
+        "kyc_url": {
+            "description": "URL for the KYC service",
+            "type": "string"
+        },
+        "registrar_url": {
+            "description": "URL for the registrar service",
+            "type": "string"
         }
     }
 }

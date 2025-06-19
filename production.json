@@ -74,7 +74,18 @@
         "https://graphql.grid.tf/graphql",
         "https://graphql.02.grid.tf/graphql"
     ],
+    "geoip_urls": [
+        "https://geoip.threefold.me/",
+        "https://geoip.grid.tf/",
+        "https://02.geoip.grid.tf/",
+        "https://03.geoip.grid.tf/"
+    ],
     "flist_url": "redis://hub.threefold.me:9900",
+    "v4_flist_url": "redis://v4.hub.threefold.me:9940",
+    "hub_url": "https://hub.threefold.me",
+    "v4_hub_url": "https://v4.hub.threefold.me",
+    "hub_storage": "zdb://hub.threefold.me:9900",
+    "v4_hub_storage": "zdb://hub.threefold.me:9900",
     "bin_repo": "tf-zos-v3-bins",
     "kyc_url": "https://kyc.threefold.me",
     "registrar_url": "https://registrar.prod4.threefold.me"
