@@ -85,7 +85,7 @@
         "https://graphql.test.grid.tf/graphql",
         "https://graphql.02.test.grid.tf/graphql"
     ],
-    "flist_url": "redis://hub.grid.tf:9900",
+    "flist_url": ["redis://hub.grid.tf:9900"],
     "bin_repo": "tf-zos-v3-bins.test",
     "kyc_url": "https://kyc.test.grid.tf",
     "registrar_url": "http://registrar.test4.grid.tf"
