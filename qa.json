@@ -90,11 +90,8 @@
         "https://geoip.threefold.me/"
     ],
     "flist_url": "redis://hub.grid.tf:9900",
-    "v4_flist_url": "redis://v4.hub.grid.tf:9940",
     "hub_url": "https://hub.grid.tf",
     "v4_hub_url": "https://v4.hub.grid.tf",
-    "hub_storage": "zdb://hub.grid.tf:9900",
-    "v4_hub_storage": "zdb://v4.hub.grid.tf:9940",
     "bin_repo": "tf-zos-v3-bins.qanet",
     "kyc_url": "https://kyc.qa.grid.tf",
     "registrar_url": "https://registrar.qa4.grid.tf"
