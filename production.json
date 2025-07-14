@@ -74,6 +74,7 @@
         "https://graphql.grid.tf/graphql",
         "https://graphql.02.grid.tf/graphql"
     ],
+    "hub_url": ["https://hub.threefold.me"],
     "flist_url": ["redis://hub.threefold.me:9900"],
     "bin_repo": "tf-zos-v3-bins",
     "kyc_url": "https://kyc.threefold.me",
