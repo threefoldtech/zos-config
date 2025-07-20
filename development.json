@@ -69,7 +69,7 @@
         "test_farms": []
     },
     "relays_urls": [
-        "wss://relay.dev.grid.tf"
+        "wss://relay.dev.threefold.me"
     ],
     "substrate_urls": [
         "wss://tfchain.dev.threefold.me/"
