@@ -78,5 +78,5 @@
     "flist_url": ["redis://hub.threefold.me:9900"],
     "bin_repo": "tf-zos-v3-bins",
     "kyc_url": "https://kyc.threefold.me",
-    "registrar_url": "https://registrar.prod4.threefold.me"
+    "registrar_url": "https://registrar.prod4.grid.tf"
 }
