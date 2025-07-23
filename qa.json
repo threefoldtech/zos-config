@@ -84,6 +84,7 @@
         "https://graphql.02.qa.grid.tf/graphql"
     ],
     "hub_url": ["https://hub.threefold.me"],
+    "v4hub_url": ["https://v4.hub.threefold.me", "https://v4.hub.grid.tf"],
     "flist_url": ["redis://hub.grid.tf:9900"],
     "bin_repo": "tf-zos-v3-bins.qanet",
     "kyc_url": "https://kyc.qa.grid.tf",
