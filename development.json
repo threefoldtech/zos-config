@@ -86,10 +86,10 @@
         "https://03.geoip.grid.tf/",
         "https://geoip.threefold.me/"
     ],
-    "hub_url": [
+    "hub_urls": [
         "https://hub.threefold.me"
     ],
-    "v4_hub_url": [
+    "v4_hub_urls": [
         "https://v4.hub.threefold.me"
     ],
     "flist_url": "redis://hub.threefold.me:9900",
