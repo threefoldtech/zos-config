@@ -70,20 +70,16 @@
         "test_farms": [1]
     },
     "relays_urls": [
-        "wss://relay.test.grid.tf",
-        "wss://relay.02.test.grid.tf"
+        "wss://relay.test.grid.tf"
     ],
     "substrate_urls": [
-        "wss://tfchain.test.grid.tf/",
-        "wss://tfchain.02.test.grid.tf"
+        "wss://tfchain.test.grid.tf/"
     ],
     "activation_urls": [
-        "https://activation.test.grid.tf/activation/activate",
-        "https://activation.02.test.grid.tf/activation/activate"
+        "https://activation.test.grid.tf/activation/activate"
     ],
     "graphql_urls": [
-        "https://graphql.test.grid.tf/graphql",
-        "https://graphql.02.test.grid.tf/graphql"
+        "https://graphql.test.grid.tf/graphql"
     ],
     "hub_url": ["https://hub.threefold.me"],
     "flist_url": ["redis://hub.grid.tf:9900"],
