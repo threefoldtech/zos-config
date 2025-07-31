@@ -69,7 +69,6 @@
     },
     "relays_urls": [
         "wss://relay.qa.grid.tf",
-        "wss://relay.02.qa.grid.tf"
     ],
     "substrate_urls": [
         "wss://tfchain.qa.grid.tf/",
