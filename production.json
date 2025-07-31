@@ -66,7 +66,7 @@
     ],
     "graphql_urls": [
         "https://graphql.grid.threefold.me/graphql",
-        "https://graphql.grid.tf/graphql",
+        "https://graphql.grid.tf/graphql"
     ],
     "hub_url": ["https://hub.threefold.me"],
     "flist_url": ["redis://hub.threefold.me:9900"],
