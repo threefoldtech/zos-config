@@ -68,7 +68,7 @@
         "test_farms": [190, 1, 43]
     },
     "relays_urls": [
-        "wss://relay.qa.grid.tf",
+        "wss://relay.qa.grid.tf"
     ],
     "substrate_urls": [
         "wss://tfchain.qa.grid.tf/",
