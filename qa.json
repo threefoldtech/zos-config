@@ -61,30 +61,46 @@
             "AbdelrahmanElawady",
             "Omarabdul3ziz",
             "rawdaGastan",
-            "Eslam-Nawara"
+            "Eslam-Nawara",
+            "hossnys",
+            "PeterNashaat"
         ]
     },
     "rollout_upgrade": {
-        "test_farms": [190, 1, 43]
+        "test_farms": [
+            190,
+            1,
+            43
+        ]
     },
     "relays_urls": [
-        "wss://relay.qa.grid.tf"
+        "wss://relay.qa.grid.tf",
+        "wss://relay.qa.threefold.me"
     ],
     "substrate_urls": [
         "wss://tfchain.qa.grid.tf/",
-        "wss://tfchain.02.qa.grid.tf/"
+        "wss://tfchain.qa.threefold.me/"
     ],
     "activation_urls": [
         "https://activation.qa.grid.tf/activation/activate",
-        "https://activation.02.qa.grid.tf/activation/activate"
+        "https://activation.qa.threefold.me.activation/activate"
     ],
     "graphql_urls": [
         "https://graphql.qa.grid.tf/graphql",
-        "https://graphql.02.qa.grid.tf/graphql"
+        "https://graphql.qa.threefold.me/graphql"
     ],
-    "hub_url": ["https://hub.threefold.me"],
-    "v4hub_url": ["https://v4.hub.threefold.me", "https://v4.hub.grid.tf"],
-    "flist_url": ["redis://hub.grid.tf:9900"],
+    "hub_url": [
+        "https://hub.threefold.me",
+        "https://hub.grid.tf"
+    ],
+    "v4hub_url": [
+        "https://v4.hub.threefold.me",
+        "https://v4.hub.grid.tf"
+    ],
+    "flist_url": [
+        "redis://hub.grid.tf:9900",
+        "redis://hub.threefold.me:9900"
+    ],
     "bin_repo": "tf-zos-v3-bins.qanet",
     "kyc_url": "https://kyc.qa.grid.tf",
     "registrar_url": "https://registrar.qa4.grid.tf"
