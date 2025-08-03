@@ -69,16 +69,20 @@
         "test_farms": []
     },
     "relays_urls": [
-        "wss://relay.dev.threefold.me"
+        "wss://relay.dev.threefold.me",
+        "wss://relay.dev.grid.tf"
     ],
     "substrate_urls": [
-        "wss://tfchain.dev.threefold.me/"
+        "wss://tfchain.dev.threefold.me/",
+        "wss://tfchain.dev.grid.tf/"
     ],
     "activation_urls": [
-        "https://activation.dev.threefold.me/activation/activate"
+        "https://activation.dev.threefold.me/activation/activate",
+        "https://activation.dev.grid.tf/activation/activate"
     ],
     "graphql_urls": [
-        "https://graphql.dev.threefold.me/graphql"
+        "https://graphql.dev.threefold.me/graphql",
+        "https://graphql.dev.grid.tf/graphql"
     ],
     "geoip_urls": [
         "https://geoip.grid.tf/",
@@ -87,10 +91,12 @@
         "https://geoip.threefold.me/"
     ],
     "hub_urls": [
-        "https://hub.threefold.me"
+        "https://hub.threefold.me",
+        "https://hub.grid.tf"
     ],
     "v4_hub_urls": [
-        "https://v4.hub.threefold.me"
+        "https://v4.hub.threefold.me",
+        "https://v4.hub.grid.tf"
     ],
     "flist_url": "redis://hub.threefold.me:9900",
     "bin_repo": "tf-zos-v3-bins",
