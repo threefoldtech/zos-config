@@ -75,6 +75,18 @@
         "https://hub.threefold.me",
         "https://hub.grid.tf"
     ],
+    "v4hub_url": [
+        "https://v4.hub.threefold.me",
+        "https://v4.hub.grid.tf"
+    ],
+    "hub_urls": [
+        "https://hub.threefold.me",
+        "https://hub.grid.tf"
+    ],
+    "v4hub_urls": [
+        "https://v4.hub.threefold.me",
+        "https://v4.hub.grid.tf"
+    ],
     "flist_url": [
         "redis://hub.threefold.me:9900",
         "redis://hub.grid.tf:9900"
