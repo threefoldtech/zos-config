@@ -104,10 +104,7 @@
         "https://v4.hub.threefold.me",
         "https://v4.hub.grid.tf"
     ],
-    "flist_url": [
-        "redis://hub.grid.tf:9900",
-        "redis://hub.threefold.me:9900"
-    ],
+    "flist_url": "redis://hub.threefold.me:9900",
     "bin_repo": "tf-zos-v3-bins.test",
     "kyc_url": "https://kyc.test.grid.tf",
     "registrar_url": "http://registrar.test4.grid.tf"
