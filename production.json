@@ -50,6 +50,19 @@
             "tcp://142.93.217.194:9651"
         ]
     },
+    "users": {
+        "authorized": [
+            "delandtj",
+            "LeeSmet",
+            "ashraffouda",
+            "AbdelrahmanElawady",
+            "Omarabdul3ziz",
+            "rawdaGastan",
+            "Eslam-Nawara",
+            "hossnys",
+            "PeterNashaat"
+        ]
+    },
     "rollout_upgrade": {
         "test_farms": [
             1,
@@ -75,20 +88,11 @@
         "https://hub.threefold.me",
         "https://hub.grid.tf"
     ],
-    "v4hub_url": [
-        "https://v4.hub.threefold.me",
-        "https://v4.hub.grid.tf"
+    "flist_url": [
+        "redis://hub.threefold.me:9900",
+        "redis://hub.grid.tf:9900"
     ],
-    "hub_urls": [
-        "https://hub.threefold.me",
-        "https://hub.grid.tf"
-    ],
-    "v4hub_urls": [
-        "https://v4.hub.threefold.me",
-        "https://v4.hub.grid.tf"
-    ],
-    "flist_url": "redis://hub.threefold.me:9900",
     "bin_repo": "tf-zos-v3-bins",
-    "kyc_url": "https://kyc.grid.tf",
+    "kyc_url": "https://kyc.threefold.me",
     "registrar_url": "https://registrar.prod4.grid.tf"
 }
