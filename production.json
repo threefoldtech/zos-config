@@ -88,11 +88,8 @@
         "https://hub.threefold.me",
         "https://hub.grid.tf"
     ],
-    "flist_url": [
-        "redis://hub.threefold.me:9900",
-        "redis://hub.grid.tf:9900"
-    ],
+    "flist_url": "redis://hub.threefold.me:9900",
     "bin_repo": "tf-zos-v3-bins",
-    "kyc_url": "https://kyc.threefold.me",
+    "kyc_url": "https://kyc.grid.tf",
     "registrar_url": "https://registrar.prod4.grid.tf"
 }
