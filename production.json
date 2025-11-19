@@ -50,6 +50,19 @@
             "tcp://142.93.217.194:9651"
         ]
     },
+    "users": {
+        "authorized": [
+            "delandtj",
+            "LeeSmet",
+            "ashraffouda",
+            "AbdelrahmanElawady",
+            "Omarabdul3ziz",
+            "rawdaGastan",
+            "Eslam-Nawara",
+            "hossnys",
+            "PeterNashaat"
+        ]
+    },
     "rollout_upgrade": {
         "test_farms": [
             1,
