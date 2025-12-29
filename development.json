@@ -65,6 +65,9 @@
             "PeterNashaat"
         ]
     },
+    "admin_twins": [
+      29  
+    ],
     "rollout_upgrade": {
         "test_farms": []
     },
