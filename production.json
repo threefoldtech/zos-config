@@ -64,7 +64,8 @@
         ]
     },
     "admin_twins": [
-      3309  
+      3309,
+      13862
     ],
     "rollout_upgrade": {
         "test_farms": [
